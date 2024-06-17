@@ -61,7 +61,7 @@ This ontology is available under the [Creative Commons Attribution 4.0 Internati
 
 ## Acknowledgments
 
-This ontology is developed as part of [Your Project Name/Research Group Name] at [Your Institution].
+This ontology is developed as part of PhD Project in I4.0 Maturity of  INDEED Research Group at Constructor University, Bremen, Germany.
 
 ## Contributors
 
