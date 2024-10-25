@@ -18,6 +18,7 @@ The Ontomat4.0 ontology comprises classes and relationships that represent vario
   - Technology
 
 ### Factor
+- Description: Represents the critical driving forces in an organization’s Industry 4.0 maturity, covering both technical and non-technical elements such as IT infrastructure or organizational culture.
 - Key influencing drivers used to evaluate I4.0 maturity.
   - AdvancedIT
   - Agility
@@ -35,6 +36,11 @@ The Ontomat4.0 ontology comprises classes and relationships that represent vario
   - Quality
   - StrategyForI40
   - WillingnessToChange
+- Object Properties:
+  - hasObjective: Links each factor to its goals (e.g., Advanced IT to real-time data analytics).
+  - hasDimension: Associates each factor with a Dimension.
+  - hasWeight: Indicates the relative importance of each factor, helping prioritize areas in digital transformation.
+
 
 ### Indicator
 - Specific measures used to assess the maturity level of factors.
